@@ -3,8 +3,8 @@
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/UseCase%20Diagram.png)
 
 ## 2.Активности
-### 2.1 Диаграмма активности, описывающая функциональную возможность получения перевода текста
-![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Activity%20diagrams/activity_0.png)
+### 2.1 
+![Диаграмма активности, описывающая функциональную возможность получения перевода текста](https://github.com/Nikita-Ivanov347/Bot/blob/master/Activity%20diagrams/activity_0.png)
 ### 2.2 Диаграмма активности, описывающая функциональную возможность получения информации о погоде
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Activity%20diagrams/activity_1.png)
 ### 2.3 Диаграмма активности, описывающая функциональную возможность общения с Ботом
