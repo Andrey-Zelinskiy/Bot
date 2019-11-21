@@ -54,7 +54,7 @@
 ### 2.1 Диаграмма активности, описывающая функциональную возможность получения информации о погоде
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Activity%20diagrams/activity_1.png)
 ### 2.2 Диаграмма последовательности, описывающая последовательность получения информации о погоде
-![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Sequence/Sequence%20Diagram1.png)
+![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Sequence/SequenceDiagram1.png)
 
 ## 3.Отправки и получения текстовых сообщений 
 ### Описание. Вариант использования "Communication" позволяет получить информацию о погоде. 
