@@ -9,7 +9,7 @@
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/activity_diagram.png)
 
 ## 4.Диаграмма классов
-![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/ClassDiagram1.png)
+![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/ClassDiagram.png)
 
 # Прецеденты(варианты использования)
 ## 1.Получения перевода текста
