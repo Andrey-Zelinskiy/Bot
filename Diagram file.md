@@ -33,7 +33,7 @@
 ### 1.1 Диаграмма активности, описывающая функциональную возможность получения перевода текста
 ![](https://github.com/Nikita-Ivanov347/Bot/blob/master/Activity%20diagrams/activity_0.png)
 ### 1.2 Диаграмма последовательности, описывающая последовательность получения перевода текста
-![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Sequence/Sequence%20Diagram2.png)
+![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Sequence/SequenceDiagram2.png)
 
 ## 2.Получения информации о погоде
 ### Описание. Вариант использования "Getting weather" позволяет получить информацию о погоде. 
