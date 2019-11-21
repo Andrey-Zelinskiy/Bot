@@ -21,3 +21,12 @@
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Sequence/Sequence%20Diagram3.png)
 ### 3.4 Диаграмма последовательности, описывающая последовательность отправки и получения текстовых сообщений
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Sequence/Sequence%20Diagram4.png)
+
+## 4.Диаграмма размещения
+![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/deployment_diagram.png)
+
+## 5.Диаграмма деятельности
+![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/activity_diagram.png)
+
+## 6.Диаграмма классов
+![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/ClassDiagram1.png)
