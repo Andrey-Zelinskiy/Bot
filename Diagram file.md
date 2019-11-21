@@ -25,7 +25,7 @@
 ## 4.Диаграмма размещения
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/deployment_diagram.png)
 
-## 5.Диаграмма деятельности
+## 5.Диаграмма состояний
 ![.](https://github.com/Nikita-Ivanov347/Bot/blob/master/Diagrams/activity_diagram.png)
 
 ## 6.Диаграмма классов
